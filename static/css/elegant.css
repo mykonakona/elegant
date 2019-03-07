@@ -38,7 +38,7 @@ hr {
 
 /* site title */
 .site-name {
-    font-family: 'DejaVu Serif', 'Monaco', 'Inconsolata', 'Andale Mono', 'Lucida Console', 'Bitstream Vera Sans Mono', 'Courier New', Courier, Monospace;
+    font-family: 'DejaVu Serif', 'Inconsolata', 'Andale Mono', 'Lucida Console', 'Bitstream Vera Sans Mono', 'Courier New', Courier, Monospace, 'Monaco';
 }
 /* Top navigation menu */
 .top-menu li a {
